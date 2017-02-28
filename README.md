@@ -1,4 +1,7 @@
+<img src="logo.png" width="75%"/>
+
 # Aragon Issues
+
 
 
 ## Desktop + web app
