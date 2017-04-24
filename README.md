@@ -2,7 +2,7 @@
 
 # Aragon Issues
 
-[![Join the chat at https://gitter.im/AragonOne/feedback](https://badges.gitter.im/AragonOne/feedback.svg)](https://gitter.im/AragonOne/feedback?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<img src="https://aragon.chat/badge.svg">
 
 
 
