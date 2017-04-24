@@ -1,8 +1,6 @@
 <img src="logo.png" width="75%"/>
 
-# Aragon Issues
-
-<img src="https://aragon.chat/badge.svg">
+# Aragon Issues <img src="https://aragon.chat/badge.svg">
 
 
 
