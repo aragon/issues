@@ -1,21 +1,24 @@
 <img src="logo.png" width="75%"/>
 
-# Aragon Issues <img src="https://aragon.chat/badge.svg">
+# Aragon Issues [![Slack](https://aragon.chat/badge.svg)](https://aragon.chat)
 
+## Where to submit issues
 
+- Technical discussion about the dapp implementation, [the dapp repo](https://github.com/aragon/aragon/issues/new)
+- Technical discussion about the contracts running the organizations, [the contracts repo](https://github.com/aragon/aragon-core/issues/new)
+- Feature requests [here](https://github.com/aragon/issues/issues/new)
+- General bugs [here](https://github.com/aragon/issues/issues/new)
+- Anything else [here too](https://github.com/aragon/issues/issues/new)
 
 ## Desktop + web app
 
 1. Right click anywhere within the app and click `Inspect Element`.
 2. A panel will open in the bottom. Enlarge it and take a screenshot.
-3. [Open an issue](https://github.com/AragonOne/issues/issues/new) attaching your file and steps on how to reproduce the bug.
-
-
+3. [Open an issue](https://github.com/aragon/issues/issues/new) attaching your file and steps on how to reproduce the bug.
 
 ## Contracts
 
-If you see something we should fix, just [open an issue](https://github.com/AragonOne/issues/issues/new)! Since Aragon companies should only be running in the testnet now, publicly stating issues with their contracts shouldn't be a problem.
-
+If you see something we should fix, just [open an issue](https://github.com/aragon/issues/issues/new)! Since Aragon companies should only be running in the testnet now, publicly stating issues with their contracts shouldn't be a problem.
 
 
 ## It's an Alpha! It can crash
