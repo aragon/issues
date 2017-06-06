@@ -23,4 +23,4 @@ If you see something we should fix, just [open an issue](https://github.com/Arag
 - **DON'T USE IT FOR PRODUCTION PURPOSES**.
 - If it crashes, close it and open it again.
 - If that doesn't work, right click anywhere, then click `Inspect element` and type `localStorage.clear()` in the panel that will open, then reload it again.
-- *OMFG THIS IS NOT FRIENDLY YOU WERE SUPPOSED TO BE VERY USER FRIENDLY!!!*. Aragon is one of the most complex dapps out there, we are still early in our journey. Usability is our #1 concern and it'll get better and better over each release
+- *OMFG THIS IS NOT FRIENDLY YOU WERE SUPPOSED TO BE VERY USER FRIENDLY!!!*. Aragon is one of the most complex dapps out there, we are still early in our journey. Usability is our #1 concern and it'll get better and better over each release.
